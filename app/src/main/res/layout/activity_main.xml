@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:text="Defualt"
+        android:layout_height="wrap_content"/>
+
+    <com.bitman.carousel.BCarousel
+        android:layout_width="match_parent"
+        android:id="@+id/mHBanner"
+        android:layout_height="150dp"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:text="Vertical direction;Transition effects"
+        android:layout_height="wrap_content"/>
+
+    <com.bitman.carousel.BCarousel
+        android:layout_width="match_parent"
+        app:orientation="vertical"
+        android:id="@+id/mVBanner"
+        android:layout_height="150dp"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:text="Transition effects;Transition effect time 3s"
+        android:layout_height="wrap_content"/>
+
+    <com.bitman.carousel.BCarousel
+        android:layout_width="match_parent"
+        app:turnTime="3000"
+        android:id="@+id/mLBanner"
+        android:layout_height="150dp"/>
+
+</LinearLayout>

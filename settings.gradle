@@ -1,0 +1,18 @@
+dependencyResolutionManagement {
+    repositoriesMode.set(RepositoriesMode.FAIL_ON_PROJECT_REPOS)
+    repositories {
+        maven{
+            url 'https://maven.aliyun.com/nexus/content/repositories/google'
+        }
+//        google()
+        maven {
+            url 'https://maven.aliyun.com/nexus/content/repositories/central'
+        }
+        mavenCentral()
+        jcenter() // Warning: this repository is going to shut down soon
+
+    }
+}
+rootProject.name = "BBanner"
+include ':app'
+include ':carousel'
