@@ -14,7 +14,7 @@ BCarousel:Try to use as little code as possible to encapsulate a usable carousel
 ## Examples
 ![Example](resources/bcarousel.gif "working example")
 ## Usage
-gradele dependency:
+gradle dependency:
 ```
 implementation 'io.github.thunderrule:bcarousel:1.0.0'
 ```
