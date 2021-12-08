@@ -8,4 +8,4 @@ BCarousel:Try to use as little code as possible to encapsulate a usable carousel
 - Support setting transition time
 - Support turning off manual page turning
 ## Examples
-![Example](resources/carousel.gif "working example")
+![Example](resources/bcarousel.gif "working example")
