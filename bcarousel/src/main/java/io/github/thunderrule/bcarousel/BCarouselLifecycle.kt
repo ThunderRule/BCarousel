@@ -1,4 +1,4 @@
-package com.bitman.carousel
+package io.github.thunderrule.bcarousel
 
 import androidx.lifecycle.Lifecycle
 import androidx.lifecycle.LifecycleObserver

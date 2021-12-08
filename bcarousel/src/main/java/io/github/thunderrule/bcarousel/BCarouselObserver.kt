@@ -1,4 +1,4 @@
-package com.bitman.carousel
+package io.github.thunderrule.bcarousel
 
 /**
  *  功能描述：

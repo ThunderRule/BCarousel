@@ -6,8 +6,8 @@ import android.view.View
 import android.view.ViewGroup
 import android.widget.ImageView
 import androidx.recyclerview.widget.RecyclerView
-import com.bitman.carousel.BaseAdapter
 import com.bumptech.glide.Glide
+import io.github.thunderrule.bcarousel.BaseAdapter
 
 /**
  *  功能描述：

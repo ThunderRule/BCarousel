@@ -12,7 +12,7 @@
         android:text="Defualt"
         android:layout_height="wrap_content"/>
 
-    <com.bitman.carousel.BCarousel
+    <io.github.thunderrule.bcarousel.BCarousel
         android:layout_width="match_parent"
         android:id="@+id/mHBanner"
         android:layout_height="150dp"/>
@@ -22,7 +22,7 @@
         android:text="Vertical direction;Transition effects"
         android:layout_height="wrap_content"/>
 
-    <com.bitman.carousel.BCarousel
+    <io.github.thunderrule.bcarousel.BCarousel
         android:layout_width="match_parent"
         app:orientation="vertical"
         android:id="@+id/mVBanner"
@@ -33,7 +33,7 @@
         android:text="Transition effects;Transition effect time 3s"
         android:layout_height="wrap_content"/>
 
-    <com.bitman.carousel.BCarousel
+    <io.github.thunderrule.bcarousel.BCarousel
         android:layout_width="match_parent"
         app:turnTime="3000"
         android:id="@+id/mLBanner"

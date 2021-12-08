@@ -5,7 +5,7 @@ import android.os.Bundle
 import android.view.View
 import androidx.viewpager2.widget.MarginPageTransformer
 import androidx.viewpager2.widget.ViewPager2
-import com.bitman.carousel.BCarousel
+import io.github.thunderrule.bcarousel.BCarousel
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {

@@ -1,4 +1,4 @@
-package com.bitman.carousel
+package io.github.thunderrule.bcarousel
 
 import android.view.ViewGroup
 import androidx.recyclerview.widget.RecyclerView

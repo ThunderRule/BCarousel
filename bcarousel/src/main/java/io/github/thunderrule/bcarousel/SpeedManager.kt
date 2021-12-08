@@ -1,4 +1,4 @@
-package com.bitman.carousel
+package io.github.thunderrule.bcarousel
 
 import androidx.recyclerview.widget.LinearLayoutManager
 import androidx.recyclerview.widget.LinearSmoothScroller
