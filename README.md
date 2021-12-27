@@ -1,5 +1,5 @@
 # Image Carousel —— BCarousel
-[![Maven](https://img.shields.io/badge/%20Maven%20-1.0.0-5bc0de.svg)]
+![maven-central](https://img.shields.io/maven-central/v/io.github.thunderrule/bcarousel)
 [![License](https://img.shields.io/badge/License%20-Apache%202-337ab7.svg)](https://www.apache.org/licenses/LICENSE-2.0)
 
 
@@ -16,5 +16,5 @@ BCarousel:Try to use as little code as possible to encapsulate a usable carousel
 ## Usage
 gradle dependency:
 ```
-implementation 'io.github.thunderrule:bcarousel:1.0.0'
+implementation 'io.github.thunderrule:bcarousel:1.0.1'
 ```
